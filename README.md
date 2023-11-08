@@ -10,6 +10,7 @@ Welcome to the Introduction to Python Programming repository! This repository se
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
+- [Topics Covered](#topicscovered)
 
 ## Installation
 
@@ -35,5 +36,26 @@ Contributions are welcome! If you spot any errors, have suggestions for improvem
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
+##Topics Covered
+
+✅Basic syntax and data types
+
+✅Control structures and loops
+
+✅Functions and modules
+
+✅Object-oriented programming (OOP) concepts
+
+✅File handling
+
+✅Error handling and debugging
+
+✅Introduction to popular Python libraries
+
+✅Simple projects to reinforce learning
+
+This list is not exhaustive, and the repository will be continuously updated with new content and resources.
+
 
 We hope this repository serves as a valuable resource for your journey into the world of Python programming. Happy coding!
