@@ -37,7 +37,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-##Topics Covered
+## Topics Covered
 
 ✅Basic syntax and data types
 
